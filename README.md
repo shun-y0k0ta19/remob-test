@@ -5,4 +5,4 @@ aaa
 bbb
 aaa
 testtt
-B
+AAAAAB
